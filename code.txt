@@ -1,0 +1,12 @@
+This is Code :
+
+Author: Poorvisha
+
+1. Profile page code
+
+2. Chat screen code
+
+3. Last seen code
+
+4. Attachments (Image, Audio, video) Code
+
