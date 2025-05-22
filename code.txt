@@ -10,3 +10,6 @@ Author: Poorvisha
 
 4. Attachments (Image, Audio, video) Code
 
+5. Hiding the last seen
+
+
